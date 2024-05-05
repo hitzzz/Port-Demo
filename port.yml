@@ -1,9 +1,0 @@
-# enrichService.yml
-
-- identifier: "Port-Demo"
-  blueprint: service
-  properties:
-    type: "backend"
-    lifecycle: "Production"
-  relations:
-    domain: "shipping"
