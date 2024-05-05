@@ -1,5 +1,3 @@
-# enrichService.yml
-
 - identifier: "{{ service_identifier }}"
   blueprint: service
   properties:
